@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.awesomeproject" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="32" />
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <application
+        android:usesCleartextTraffic="true"
+        tools:ignore="GoogleAppIndexingWarning"
+        tools:targetApi="28" >
+        <activity android:name="com.awesomeproject.MySDKActivity" />
+    </application>
+
+</manifest>

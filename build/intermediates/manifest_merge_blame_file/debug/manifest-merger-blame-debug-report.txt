@@ -1,0 +1,27 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.awesomeproject" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="24"
+8        android:targetSdkVersion="32" />
+9
+10    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+10-->/Users/userasn/Documents/MyProject/TestSDK/NativeAndroid2/QSDK/src/debug/AndroidManifest.xml:5:5-77
+10-->/Users/userasn/Documents/MyProject/TestSDK/NativeAndroid2/QSDK/src/debug/AndroidManifest.xml:5:22-75
+11
+12    <application
+12-->/Users/userasn/Documents/MyProject/TestSDK/NativeAndroid2/QSDK/src/main/AndroidManifest.xml:3:5-5:19
+13        android:usesCleartextTraffic="true"
+13-->/Users/userasn/Documents/MyProject/TestSDK/NativeAndroid2/QSDK/src/debug/AndroidManifest.xml:7:18-53
+14        tools:ignore="GoogleAppIndexingWarning"
+14-->/Users/userasn/Documents/MyProject/TestSDK/NativeAndroid2/QSDK/src/debug/AndroidManifest.xml:7:75-114
+15        tools:targetApi="28" >
+15-->/Users/userasn/Documents/MyProject/TestSDK/NativeAndroid2/QSDK/src/debug/AndroidManifest.xml:7:54-74
+16        <activity android:name="com.awesomeproject.MySDKActivity" />
+16-->/Users/userasn/Documents/MyProject/TestSDK/NativeAndroid2/QSDK/src/main/AndroidManifest.xml:4:9-60
+16-->/Users/userasn/Documents/MyProject/TestSDK/NativeAndroid2/QSDK/src/main/AndroidManifest.xml:4:19-48
+17    </application>
+18
+19</manifest>

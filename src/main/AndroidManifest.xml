@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.awesomeproject">
+    <application>
+        <activity android:name=".MySDKActivity"></activity>
+    </application>
+</manifest>

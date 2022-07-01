@@ -1,0 +1,7 @@
+com.awesomeproject
+drawable node_modules_reactnative_libraries_newappscreen_components_logo
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw app
+string app_name
+style AppTheme
